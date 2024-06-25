@@ -1,5 +1,6 @@
 # Renting Barcelona
 This project consist in create a database in MySQL for a renting company. 
+![Barcelona](img/11.png)
 
 ## Project Overview
 This project involves creating a MySQL database for a company specializing in temporary and long-term rentals in Barcelona. 
@@ -37,14 +38,13 @@ Data was cleaned and organized using the following steps:
 1. **Table Design**:
     - Designed tables to store data on districts, neighborhoods, populations, rents, and Airbnb listings.
     - Defined primary keys, foreign keys, and indices to optimize query performance.
+![Barcelona](img/8.png)
 
 2. **Import Data into MySQL**:
     - Utilized `LOAD DATA INFILE` for bulk data import.
     - Verified data integrity post-import.
 
-3. **Preprocessing**:
-    - Utilized `unidecode` library for data normalization.
-    - Cleaned and formatted data using Jupyter Notebook with `unidecode`.
+
 
 
 
