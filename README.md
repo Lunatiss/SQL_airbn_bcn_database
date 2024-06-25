@@ -1,6 +1,11 @@
 # Renting Barcelona
-## Market study of tourist rental and renting
-As a company in the temporary and long-term real estate sector, we understand the significant growth of the tourist rental sector, largely propelled by platforms like Airbnb. In light of this, our company aims to comprehend the Barcelona market to optimize its strategy and provide enhanced services tailored to different neighborhoods and districts.
+This project consist in create a database in MySQL for a renting company. 
+
+As a company in the temporary and long-term real estate sector, we understand the significant growth of the tourist rental sector, largely propelled by platforms like Airbnb. 
+
+## Objective: 
+Comprehend Barcelona's market to optimize its strategy and provide enhanced services tailored to different neighborhoods and districts.
+
 ### Questions Explored:
 1. Districts with the highest concentration of tourist rentals.
 2. Average rent prices by district & neighborhood.
